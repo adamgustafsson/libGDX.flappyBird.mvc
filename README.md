@@ -1,4 +1,4 @@
-# libGDX_FlappyBird_mvc
+# libGDX | FlappyBird | MVC
 Redesign of Brent Aureli's libGDX - FlappyBird tutorial.
 * https://www.youtube.com/channel/UCO9JvZ75Usyzgd1puurLF6A
 * https://github.com/BrentAureli/FlappyDemo
